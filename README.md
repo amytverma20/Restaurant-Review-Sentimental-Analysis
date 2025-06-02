@@ -63,9 +63,6 @@ The dataset consists of restaurant reviews with two main columns:
 <p align="center">
   <img src="C:\Users\amytv\OneDrive\Pictures\Screenshots\Screenshot 2025-06-02 160951.png" width="700"/>
 </p>
-
-> *Add screenshots of model evaluation, confusion matrix, or wordclouds in the `images/` folder.*
-
 ---
 
 ## 💡 Key Insights
