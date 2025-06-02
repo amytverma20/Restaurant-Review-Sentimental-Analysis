@@ -58,11 +58,11 @@ The dataset consists of restaurant reviews with two main columns:
 
 ---
 
-## 📊 Sample Visual Output of first 200 reviews from total reviews
+# 📊 Sample Visual Output
 
 ## 🔍 Confusion Matrix
 <p align="center">
-  <img src="C:\Users\amytv\OneDrive\Pictures\Screenshots\Screenshot 2025-06-02 160951.png" width="700"/>
+  <img src="https://github.com/amytverma20/Restaurant-Review-Sentimental-Analysis/blob/main/confusion_matrix.png." width="700"/>
 </p>
 ---
 
